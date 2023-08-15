@@ -27,11 +27,11 @@ h2{
     box-shadow: 0 5px 8px 0 rgba(68,68,68,.04);
     margin: 0 auto;  
     height: 260px;
-    width: 460px;
+    width: 600px;
     margin-top: 100px;
 }
 .pannel_inner {
-    padding: 20px 28px;
+    padding: 15px;
 }
 .login_box {
     width: 100%;
